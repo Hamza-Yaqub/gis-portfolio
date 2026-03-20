@@ -1,6 +1,6 @@
 # Gold Prospectivity Mapping Using Multi-Criteria Evaluation (MCE)
 
-![Gold Prospectivity Map](gis-portfolio/maps/gold_prospectivity_map.png)
+![Gold Prospectivity Map](maps/gold_prospectivity_map.png)
 
 ## Project Overview
 This project applies GIS-based Multi-Criteria Evaluation (MCE) to identify areas with high gold mineralization potential. It integrates multiple geospatial datasets including geological, structural, and surface features to generate a prospectivity map.
