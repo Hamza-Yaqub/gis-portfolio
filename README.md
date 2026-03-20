@@ -4,7 +4,7 @@ Welcome to my portfolio. I am a GIS Analyst with experience in geospatial data a
 
 ## Projects
 
-### Gold Prospectivity Mapping
+### 1. Gold Prospectivity Mapping
 A GIS-based multi-criteria evaluation (MCE) project used to identify high gold potential zones.
 
 👉 [View Project](gold-prospectivity-analysis/)
