@@ -28,7 +28,7 @@ The analysis produced a gold prospectivity map highlighting:
 - High potential zones   
 - Low potential zones  
 
-High prospectivity areas are associated with favorable lithology, as predicted by the combination of the properties of the ALteration datasets.
+High prospectivity areas are associated with favorable lithology, as predicted by the combination (fuzzy overlay) of the properties of the Alteration datasets.
 
 ## Conclusion
 This project demonstrates the effectiveness of GIS-based multi-criteria analysis in mineral exploration and decision-making.
