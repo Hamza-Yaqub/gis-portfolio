@@ -1,6 +1,6 @@
 # Hamza Yaqub – GIS Portfolio
 
-Welcome to my portfolio. I am a GIS Analyst with experience in geospatial data analysis, mineral resource mapping, and environmental spatial analysis. My work focuses on spatial data analysis, geospatial database development, Environmental and natural resource mapping and data interpretation.
+Welcome to my portfolio. I am a GIS Analyst who turns complex spatial data into clear, actionable insights. My experience includes geospatial analysis, mineral resource mapping, and environmental impact assessments. I connect field operations, environmental science, and management needs; helping teams plan smarter, work safer, and document results that meet both regulatory and client expectations.
 
 ## Projects
 
